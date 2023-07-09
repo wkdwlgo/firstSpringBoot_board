@@ -24,7 +24,7 @@ public class SwaggerConfig {
         return new ApiInfoBuilder()
                 .title("First Spring Boot Board REST API")
                 .version("1.0.0")
-                .description("첫번째 스프링 부트 프로젝트인 게시판 swagger api 입니다.")
+                .description("장지해의 첫번째 스프링 부트 프로젝트인 게시판 swagger api 입니다.")
                 .build();
     }
 }
